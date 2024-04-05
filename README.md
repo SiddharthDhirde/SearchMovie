@@ -24,7 +24,7 @@ To get started with SearchMovie App, follow these steps:
 2. Install dependencies:
     
     ```bash
-    cd movie-finder-app
+    cd SearchMovie
     npm install
     ```
     
